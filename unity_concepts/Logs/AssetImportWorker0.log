@@ -206,3 +206,30 @@ Start importing Assets/Scenes/0-floor.unity using Guid(9fc0d4010bbf28b4594072e72
  -> (artifact id: 'dc6444c2373e1a959bebd0ddae1067b0') in 0.000264 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 110.833502 seconds.
+  path: Assets/Scenes/0-floor.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/0-floor.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'f208b10ca1342389fa375f47cfac792e') in 0.000556 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 9.550061 seconds.
+  path: Assets/Scenes/0-floor 1.unity
+  artifactKey: Guid(9d5b9d8245b0245f0b80c598fbd1af5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/0-floor 1.unity using Guid(9d5b9d8245b0245f0b80c598fbd1af5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '388673d8c84ada3260e144bd585bf765') in 0.000454 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 14.613654 seconds.
+  path: Assets/Scenes/1-ball.unity
+  artifactKey: Guid(9d5b9d8245b0245f0b80c598fbd1af5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/1-ball.unity using Guid(9d5b9d8245b0245f0b80c598fbd1af5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '3981599acf9320216d75bbb2e94903b7') in 0.000276 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
