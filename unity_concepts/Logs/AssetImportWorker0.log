@@ -1301,3 +1301,13 @@ Start importing Assets/Prefabs/Ball.prefab using Guid(bd201ad77204c45c292a56e70e
  -> (artifact id: '3ea3328488b2d994a03d82c16187e55f') in 0.023840 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 267.090153 seconds.
+  path: Assets/Materials/ball-white.mat
+  artifactKey: Guid(e9435c50c8652428f897ffa216d18faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/ball-white.mat using Guid(e9435c50c8652428f897ffa216d18faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'b53fdc57c80d8a7ff1d528f7035f4bab') in 0.006233 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
