@@ -197,3 +197,13 @@ Start importing Assets/Scenes using Guid(dbceffec073b946c580258c10ead1f39) Impor
  -> (artifact id: '34af5235ded48673af6c538166d593d0') in 0.000943 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 972.831740 seconds.
+  path: Assets/Materials/floor.mat
+  artifactKey: Guid(ef393a0c54274498e9b3f6708c1c46f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/floor.mat using Guid(ef393a0c54274498e9b3f6708c1c46f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'bf2cecde9689dca3430eb5cd243211d3') in 0.399915 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1

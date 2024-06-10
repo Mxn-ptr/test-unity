@@ -233,3 +233,69 @@ Start importing Assets/Scenes/1-ball.unity using Guid(9d5b9d8245b0245f0b80c598fb
  -> (artifact id: '3981599acf9320216d75bbb2e94903b7') in 0.000276 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 143.694938 seconds.
+  path: Assets/Scenes/1-ball.unity
+  artifactKey: Guid(9d5b9d8245b0245f0b80c598fbd1af5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/1-ball.unity using Guid(9d5b9d8245b0245f0b80c598fbd1af5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '4ef49b879810828723d0a3eb36929a76') in 0.000260 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 15.089827 seconds.
+  path: Assets/Scenes/1-ball 1.unity
+  artifactKey: Guid(a2004d552516146c2b9df22e1c86a9ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/1-ball 1.unity using Guid(a2004d552516146c2b9df22e1c86a9ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '8de98f00a35810ed20833884923a544f') in 0.000437 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 6.467136 seconds.
+  path: Assets/Scenes/2-colors.unity
+  artifactKey: Guid(a2004d552516146c2b9df22e1c86a9ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/2-colors.unity using Guid(a2004d552516146c2b9df22e1c86a9ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '3ae6b9b0b0e5b9c4c106906cd781f03c') in 0.000283 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 14.258357 seconds.
+  path: Assets/Scenes/Materials
+  artifactKey: Guid(1c80bb24b4f244bfb881c771ae499fe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Materials using Guid(1c80bb24b4f244bfb881c771ae499fe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '874f05c01350d34f132d7c5393f27a57') in 0.000483 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 17.213229 seconds.
+  path: Assets/Scenes/Materials/floor.mat
+  artifactKey: Guid(ef393a0c54274498e9b3f6708c1c46f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Materials/floor.mat using Guid(ef393a0c54274498e9b3f6708c1c46f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'f52463c0aec9ba860d2a6848e229f928') in 0.384645 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 463.599576 seconds.
+  path: Assets/Materials/ball.mat
+  artifactKey: Guid(e9435c50c8652428f897ffa216d18faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/ball.mat using Guid(e9435c50c8652428f897ffa216d18faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'db370ccf925fee8bbaf79df5de7a023e') in 0.014069 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 172.411112 seconds.
+  path: Assets/Materials/ball.mat
+  artifactKey: Guid(e9435c50c8652428f897ffa216d18faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/ball.mat using Guid(e9435c50c8652428f897ffa216d18faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '34daa4e25d81afaef29e0c9f658049d5') in 0.008904 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
