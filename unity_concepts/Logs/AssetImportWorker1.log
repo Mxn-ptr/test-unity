@@ -1004,3 +1004,23 @@ Start importing Assets/Stylize Water Texture/Textures/Vol_36_5_Emissive.png usin
  -> (artifact id: '959a29c0335061707885430169f3aca0') in 0.005245 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 517.251174 seconds.
+  path: Assets/Stylize Water Texture/Materials/Stylize Water Diffuse.mat
+  artifactKey: Guid(db96e04f47f6c2a44bc6bb90f93602ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylize Water Texture/Materials/Stylize Water Diffuse.mat using Guid(db96e04f47f6c2a44bc6bb90f93602ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'c8164e28ee3c98441c0394c343234fb2') in 0.179419 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.761960 seconds.
+  path: Assets/Materials/New Custom Render Texture.mat
+  artifactKey: Guid(d15886f33770b4e2ea04deb29fd4e2ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Custom Render Texture.mat using Guid(d15886f33770b4e2ea04deb29fd4e2ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'fc9a0f0a298d179eea1847e5efb96ad0') in 0.034100 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
